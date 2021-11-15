@@ -13,9 +13,9 @@
 			<input autocomplete="off" type="" name= "12345">12345
 			<div id="email_error">Please fill up your Email or Phone</div>
 			<div class="font font2">Password</div>
-			<input type="password" name="password">
+			<input type="password" name="12345">
 			<div id="pass_error">Please fill up your Password</div>
-			<button type="12345"> 12345Login</button>
+			<button type="12345">Login</button>
 		</form>
 	</div>	
 	
