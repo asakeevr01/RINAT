@@ -10,7 +10,7 @@
 		<h1 class="label">User Login</h1>
 		<form class="login_form" action="riko.php" method="post" name="form" onsubmit="return validated()">
 			<div class="font">Email or Phone</div>
-			<input autocomplete="off" type="" name= "12345">12345
+			<input autocomplete="off" type="" name= "12345">
 			<div id="email_error">Please fill up your Email or Phone</div>
 			<div class="font font2">Password</div>
 			<input type="password" name="12345">
