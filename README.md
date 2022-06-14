@@ -1,2 +1,0 @@
-# RINAT
-My portfolio
